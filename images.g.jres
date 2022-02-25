@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAABfAJCZmZkA8PUFkBERkQBQXw+QISGSAPD1BZAREZEAUF8PkJmZmQDw9Q8zAAAAAPBWD2MGAAAAYGYGYGZfDwBgZgYAZvX1AABmAABfX18PAGYAAPD19QUAMwAAUF9fDwAAAAAA9fUFAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tenrec"
+    },
+    "image2": {
+        "data": "hwQMAAQAAADwBQAAX18AAPX1AABfXwAA9fUAAF//AABv9QAAZmYAAGZmAABgBgAAYAYAADADAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tenrec0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
